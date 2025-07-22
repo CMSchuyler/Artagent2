@@ -2014,11 +2014,11 @@ export const Conversation = (): JSX.Element => {
 
   // 图床链接映射
   const imageUrlMap: Record<string, string> = {
-    'xrk1.jpeg': 'https://z.wiki/u/IpkFhR',
-    'xrk2.jpeg': 'https://z.wiki/u/mpYISq',
-    'xrk3.jpeg': 'https://z.wiki/u/JRVojG',
-    'xrk4.jpeg': 'https://z.wiki/u/VHFZQv',
-    'xrk5.jpeg': 'https://z.wiki/u/Sy5mF0'
+    'xrk1.jpeg': 'https://z.wiki/u/ox2oq7',
+    'xrk2.jpeg': 'https://z.wiki/u/hKQquX',
+    'xrk3.jpeg': 'https://z.wiki/u/m2BKNh',
+    'xrk4.jpeg': 'https://z.wiki/u/bvM3ft',
+    'xrk5.jpeg': 'https://z.wiki/u/ERGMsZ'
   };
 
   // 处理AI图像生成
