@@ -86,11 +86,11 @@ const scrollbarStyles = `
 
 // 图片详细信息映射
 const paintingInfoMap: Record<string, string> = {
-  'xrk1.jpeg': '《向日葵》文森特·梵高（Vincent van Gogh，荷兰，1887–1889年）',
-  'xrk2.jpeg': '《向日葵花束》克劳德·莫奈（Claude Monet，法国，1881年）',
-  'xrk3.jpeg': '《向日葵》古斯塔夫·克里姆特（Gustav Klimt，奥地利，1906–1908）',
-  'xrk4.jpeg': '《向日葵》埃贡·席勒（Egon Schiele，奥地利，1909）',
-  'xrk5.jpeg': '《三十朵向日葵》大卫・霍克尼（David Hockney，英国，1996）',
+  'xrk1.jpeg': '《千里江山图》北宋 王希孟 1113年',
+  'xrk2.jpeg': '《早春图》北宋 郭熙 1072年',
+  'xrk3.jpeg': '《富春山居图》 元 黄公望 1350年',
+  'xrk4.jpeg': '《凯风快晴》（がいふうかいせい）葛饰北斋 日本 1830年',
+  'xrk5.jpeg': '《箱根·湖水图》歌川广重 1833-1834年',
 };
 
 /**
