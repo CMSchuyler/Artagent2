@@ -30,13 +30,13 @@ const API_BASE_URL = 'https://api.coze.cn';
  * @type {Object<string, string>}
  */
 const AGENT_BOT_IDS = {
-  "Art Critic": "7524345845467299855",
-  "General Audience": "7524345845467136015",
-  "Art Theorist": "7524344850851168291",
-  "Art Historian": "7524342395841396736",
-  "Painter": "7524341444501782567",
-  "Art Collector": "7524340821945630783",
-  "VTS": "7524342433057046574"
+  "Art Critic": "7530490540732334130",
+  "General Audience": "7530490350352990208",
+  "Art Theorist": "7530487570992529408",
+  "Art Historian": "7530492180512358427",
+  "Painter": "7530486232141611023",
+  "Art Collector": "7530491431560609802",
+  "VTS": "7530493781171355691"
 };
 
 // ================== 中间件与上传配置 ==================
